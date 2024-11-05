@@ -1,0 +1,36 @@
+EC2 - Elastic Cloud Compute
+--------------------------------
+
+TODO: Types of EC2 :
+
+1) General purpose
+2) Compute Optimized 
+3) Memory Optimized
+4) Storage Optimized
+5) Accelerated Optimized
+
+TODO: Regions :
+There are multiple regions where we can create our ec2 instances 
+for ex: if any client wants there datacenter to be nearby there location 
+then devops engineer can create instance near to there location  
+
+Do practical on AWS console
+
+TODO: Availibility Zone (AZ):
+
+In regions we have multiple AZ's
+
+Like we have us-east-1 as a region in which we have us-east-1-a , us-east-1-b as AZ's.
+
+Now create ec2 instance on AWS console.
+
+
+
+
+
+
+
+
+
+
+
