@@ -1,0 +1,22 @@
+TODO: AWS IAM
+---------------
+You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
+
+IAM is solving a problem of authentication and authorization
+
+
+> users
+> groups
+> policies
+>  roles
+
+Authentication & Authorization
+
+
+
+
+
+
+
+
+
